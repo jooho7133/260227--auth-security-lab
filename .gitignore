@@ -41,3 +41,7 @@ coverage/
 .cache/
 tmp/
 temp/
+
+# bkit
+docs/.bkit-memory.json
+docs/.pdca-status.json
