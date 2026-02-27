@@ -1,5 +1,3 @@
-# Auth Security Lab
-
 인증 보안 연구 노트입니다.
 
 ## 문서 목록
