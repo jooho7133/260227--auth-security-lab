@@ -2,5 +2,5 @@
 
 ## 문서 목록
 
-- [SPA 인증의 구조적 문제](docs/SPA-인증의-구조적-문제)
-- [Session vs JWT 비교](docs/Session-vs-JWT-비교)
+- [SPA 인증의 구조적 문제와 브라우저 상태 관리](docs/SPA-인증의-구조적-문제와-브라우저-상태-관리)
+- [세션과 JWT 인증 방식 비교](docs/세션과-JWT-인증-방식-비교)
